@@ -157,7 +157,16 @@ The final dataset is used to build an interactive Power BI dashboard featuring:
 
 ### Dashboard Preview
 
-[Dashboard Screenshot]([dashboard.png]([url](https://drive.google.com/drive/u/0/folders/1Gy2ZpEq-34i49fT6a5ryeNMmwboX9NVh)))
+
+![Dashboard Screenshot](dashboard.png)
+
+<img width="1272" height="713" alt="Screenshot 2026-06-22 035313" src="https://github.com/user-attachments/assets/0f41f559-71d7-450e-b74b-347852de1fd1" />
+
+<img width="1267" height="721" alt="Screenshot 2026-06-22 035330" src="https://github.com/user-attachments/assets/f677ef9b-89ba-41fe-9a29-97dc6a1e36fe" />
+
+<img width="1267" height="718" alt="Screenshot 2026-06-22 035347" src="https://github.com/user-attachments/assets/686406da-a103-43ee-95bb-e61d5417d8e8" />
+
+
 
 ---
 
